@@ -1,20 +1,14 @@
 {
   "name": "superagent-rails-csrf",
-  "version": "0.0.1",
-  "description": "Add X-CSRF-Token to superagent requests",
+  "version": "0.0.2",
+  "description": "Set CSRF Token as X-CSRF-Token header to superagent requests.",
   "main": "lib",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/dex1t/superagent-rails-csrf.git"
   },
   "author": "dex1t",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dex1t/superagent-rails-csrf/issues"
-  },
   "homepage": "https://github.com/dex1t/superagent-rails-csrf#readme",
   "devDependencies": {
     "superagent": "~1.3.0"
